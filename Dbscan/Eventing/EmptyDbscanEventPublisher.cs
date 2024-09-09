@@ -1,4 +1,4 @@
-﻿namespace DbscanImplementation.Eventing
+﻿namespace Dbscan.Eventing
 {
     public class EmptyDbscanEventPublisher : IDbscanEventPublisher
     {

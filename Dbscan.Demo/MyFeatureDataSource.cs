@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace DbscanDemo
+namespace Dbscan.Demo
 {
     public class MyFeatureDataSource
     {

@@ -1,12 +1,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\DbscanImplementation\DbscanImplementation.csproj" />
+    <ProjectReference Include="..\Dbscan\Dbscan.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.0</TargetFramework>
+    <IsPackable>false</IsPackable>
   </PropertyGroup>
 
 </Project>

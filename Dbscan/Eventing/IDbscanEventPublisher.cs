@@ -1,4 +1,4 @@
-﻿namespace DbscanImplementation.Eventing
+﻿namespace Dbscan.Eventing
 {
     /// <summary>
     /// A basic interface for publishing occurring events inside dbscan algorithm.

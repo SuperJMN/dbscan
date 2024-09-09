@@ -1,4 +1,4 @@
-namespace DbscanImplementation
+namespace Dbscan
 {
     /// <summary>
     /// Algorithm point definition

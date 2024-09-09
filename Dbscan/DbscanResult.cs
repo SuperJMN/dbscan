@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace DbscanImplementation
+namespace Dbscan
 {
     /// <summary>
     /// Result object of algorithm after clusters computed

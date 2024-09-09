@@ -1,7 +1,7 @@
 
 using System;
 
-namespace DbscanImplementation.Eventing
+namespace Dbscan.Eventing
 {
     public class ComputeFinished
     {

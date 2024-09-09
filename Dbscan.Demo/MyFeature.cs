@@ -1,4 +1,4 @@
-namespace DbscanDemo
+namespace Dbscan.Demo
 {
     public class MyFeature
     {

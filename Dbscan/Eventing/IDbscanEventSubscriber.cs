@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace DbscanImplementation.Eventing
+namespace Dbscan.Eventing
 {
     public interface IDbscanEventSubscriber<TR>
     {
