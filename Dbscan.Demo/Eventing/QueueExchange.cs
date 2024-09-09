@@ -1,7 +1,6 @@
 ﻿using System.Collections.Concurrent;
-using System.Collections.Generic;
 
-namespace DbscanDemo.Eventing
+namespace Dbscan.Demo.Eventing
 {
     /// <summary>
     /// Example for an exchange

@@ -2,7 +2,8 @@
 
   <PropertyGroup>
     <OutputType>Library</OutputType>
-    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <TargetFramework>netstandard1.2</TargetFramework>
+    <PackageId>yusufuzun.Dbscan</PackageId>
   </PropertyGroup>
 
 </Project>

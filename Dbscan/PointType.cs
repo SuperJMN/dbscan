@@ -1,4 +1,4 @@
-namespace DbscanImplementation
+namespace Dbscan
 {
     public enum PointType
     {        

@@ -1,9 +1,8 @@
 ﻿using System.Threading.Tasks;
-using DbscanImplementation;
-using DbscanImplementation.Eventing;
-using DbscanImplementation.ResultBuilding;
+using Dbscan.Eventing;
+using Dbscan.ResultBuilding;
 
-namespace DbscanDemo.Eventing
+namespace Dbscan.Demo.Eventing
 {
     /// <summary>
     /// An example for how to get data from an exchange and build result asynchronously 

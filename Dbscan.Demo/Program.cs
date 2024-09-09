@@ -1,10 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading;
-using DbscanDemo.Eventing;
-using DbscanImplementation;
+using Dbscan.Demo.Eventing;
 
-namespace DbscanDemo
+namespace Dbscan.Demo
 {
     public class Program
     {

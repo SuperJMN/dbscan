@@ -1,7 +1,7 @@
 ﻿using System;
-using DbscanImplementation.Eventing;
+using Dbscan.Eventing;
 
-namespace DbscanDemo.Eventing
+namespace Dbscan.Demo.Eventing
 {
     public class MyFeatureConsoleLogger : IDbscanEventPublisher
     {

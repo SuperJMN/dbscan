@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace DbscanImplementation.ResultBuilding
+namespace Dbscan.ResultBuilding
 {
     public class DbscanResultBuilder<TF>
     {

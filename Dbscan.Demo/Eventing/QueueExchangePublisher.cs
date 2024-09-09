@@ -1,6 +1,6 @@
-﻿using DbscanImplementation.Eventing;
+﻿using Dbscan.Eventing;
 
-namespace DbscanDemo.Eventing
+namespace Dbscan.Demo.Eventing
 {
     /// <summary>
     /// An example publisher of QueueExchange

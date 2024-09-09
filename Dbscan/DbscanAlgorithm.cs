@@ -2,10 +2,10 @@ using System;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
-using DbscanImplementation.Eventing;
-using DbscanImplementation.ResultBuilding;
+using Dbscan.Eventing;
+using Dbscan.ResultBuilding;
 
-namespace DbscanImplementation
+namespace Dbscan
 {
     /// <summary>
     /// DBSCAN algorithm implementation type
